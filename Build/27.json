@@ -1,0 +1,16 @@
+{
+"companyName": "BAM",
+"productName": "Groenekan1",
+"productVersion": "1.0",
+"dataUrl": "27.data.unityweb",
+"wasmCodeUrl": "27.wasm.code.unityweb",
+"wasmFrameworkUrl": "27.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#808080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.4f1"
+}
